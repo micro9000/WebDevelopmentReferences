@@ -6,7 +6,7 @@
 
 [cssvalues.com](https://cssvalues.com/)
 
-[devdocs.io/css](https://devdocs.io/css)
+[devdocs.io/css/](https://devdocs.io/css/)
 
 [developer.mozilla.org/en-US/docs/Web/CSS](https://developer.mozilla.org/en-US/docs/Web/CSS)
 
@@ -22,7 +22,7 @@
 
 ## ICONS
 
-[fontawesome.com](https://fontawesome.com)
+[fontawesome.com](https://fontawesome.com/)
 
 [flaticon.com](https://flaticon.com)
 
@@ -34,7 +34,7 @@
 
 [heroicons.dev](https://heroicons.dev)
 
-[simpleicons.org](https://simpleicons.orgv)
+[simpleicons.org](https://simpleicons.org/)
 
 [tablericons.com](https://tablericons.com)
 
@@ -54,7 +54,7 @@
 
 ## UI Inspiration
 
-[siteinspirce.com](https://siteinspirce.com)
+[siteinspire.com](https://www.siteinspire.com/)
 
 [uimovement.com](https://uimovement.com)
 
