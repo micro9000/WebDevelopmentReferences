@@ -19,54 +19,88 @@
 
 [codecademy.com/articles/glossary-css](https://codecademy.com/articles/glossary-css)
 
----- will update later
 ##ICONS
 
-fontawesome.com
-flaticon.com
-icons8.com
-iconmonstr.com
-freepik.com
-heroicons.dev
-simpleicons.org
-tablericons.com
-css.gg
+[fontawesome.com](https://fontawesome.com)
+
+[flaticon.com](https://flaticon.com)
+
+[icons8.com](https://icons8.com)
+
+[iconmonstr.com](https://iconmonstr.com)
+
+[freepik.com](https://freepik.com)
+
+[heroicons.dev](https://heroicons.dev)
+
+[simpleicons.org](https://simpleicons.orgv)
+
+[tablericons.com](https://tablericons.com)
+
+[css.gg](https://css.gg)
+
 
 ## FONTS
 
-fonts.google.com
-fontspace.com
-1001fonts.com
-fontsquirrel.com
+[fonts.google.com](https://fonts.google.com)
+
+[fontspace.com](https://fontspace.com)
+
+[1001fonts.com](https://1001fonts.com)
+
+[fontsquirrel.com](https://fontsquirrel.com)
+
 
 ## UI Inspiration
 
-siteinspirce.com
-uimovement.com
-uigarage.net
-collectui.com
-behance.net
-awwwards.com
-sitesee.co
-onepagelove.com
-dribbble.com
+[siteinspirce.com](https://siteinspirce.com)
+
+[uimovement.com](https://uimovement.com)
+
+[uigarage.net](https://uigarage.net)
+
+[collectui.com](https://collectui.com)
+
+[behance.net](https://behance.net)
+
+[awwwards.com](https://awwwards.com)
+
+[sitesee.co](https://sitesee.co)
+
+[onepagelove.com](https://onepagelove.com)
+
+[dribbble.com](https://dribbble.com)
+
 
 ## HTML/CSS TEMPLATES
 
-inovatik.com
-templated.co
-tooplate.com
-html5up.net
-mobirise.com
-templatemo.om
-uideck.com
-freehtml5.co
+[inovatik.com](https://inovatik.com)
+
+[templated.co](https://templated.co)
+
+[tooplate.com](https://tooplate.com)
+
+[html5up.net](https://html5up.net)
+
+[mobirise.com](https://mobirise.com)
+
+[templatemo.om](https://templatemo.om)
+
+[uideck.com](https://uideck.com)
+
+[freehtml5.co](https://freehtml5.co)
+
 
 ## LEARN CSS BY PLAYING GAMES
 
 CSS Diner
+
 Flexbox Zombies
+
 Grid Garden
+
 Flexbox Defense
+
 Flexbox Froggy
+
 CSS Battle
