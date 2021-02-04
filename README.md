@@ -6,17 +6,20 @@
 
 [cssvalues.com](https://cssvalues.com/)
 
-devdocs.io/css
-developer.mozilla.org/en-US/docs/Web/CSS
-w3schools.com/cssref
-w3.org
+[devdocs.io/css](https://devdocs.io/css)
+
+[developer.mozilla.org/en-US/docs/Web/CSS](https://developer.mozilla.org/en-US/docs/Web/CSS)
+
+[w3schools.com/cssref](https://w3schools.com/cssref)
+
 
 ## GLOSSARY
 
-codecademy.com/articles/glossary-html
+[codecademy.com/articles/glossary-html](https://codecademy.com/articles/glossary-html)
 
-codecademy.com/articles/glossary-css
+[codecademy.com/articles/glossary-css](https://codecademy.com/articles/glossary-css)
 
+---- will update later
 ##ICONS
 
 fontawesome.com
