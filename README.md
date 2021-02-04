@@ -19,7 +19,8 @@
 
 [codecademy.com/articles/glossary-css](https://codecademy.com/articles/glossary-css)
 
-##ICONS
+
+## ICONS
 
 [fontawesome.com](https://fontawesome.com)
 
